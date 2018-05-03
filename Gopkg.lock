@@ -14,10 +14,10 @@
   version = "v1.1.0"
 
 [[projects]]
-  branch = "master"
   name = "github.com/hkloudou/go-astilog"
   packages = ["."]
-  revision = "48409865148a0f397641b786ff35158bba19c48f"
+  revision = "7dc4982e7071c367462424c48f930e8c41275586"
+  version = "2.0.1"
 
 [[projects]]
   name = "github.com/imdario/mergo"
@@ -91,6 +91,6 @@
 [solve-meta]
   analyzer-name = "dep"
   analyzer-version = 1
-  inputs-digest = "d69cc00eaec94201fcbf2c15a9e025d7d99901bc2bac78f931ef30bb3121c7b3"
+  inputs-digest = "bf788330f24c56e6fbea421b853337e58bcff0c9d21bb28c7d374d3c65d45da7"
   solver-name = "gps-cdcl"
   solver-version = 1
