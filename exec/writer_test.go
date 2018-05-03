@@ -3,7 +3,7 @@ package astiexec_test
 import (
 	"testing"
 
-	"github.com/asticode/go-astitools/exec"
+	"github.com/hkloudou/go-astitools/exec"
 	"github.com/stretchr/testify/assert"
 )
 
