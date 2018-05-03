@@ -8,30 +8,6 @@
   version = "v0.3.0"
 
 [[projects]]
-  branch = "master"
-  name = "github.com/asticode/go-astilog"
-  packages = ["."]
-  revision = "48409865148a0f397641b786ff35158bba19c48f"
-
-[[projects]]
-  branch = "master"
-  name = "github.com/asticode/go-astitools"
-  packages = [
-    "byte",
-    "debug",
-    "flag",
-    "io",
-    "limiter",
-    "regexp",
-    "slice",
-    "string",
-    "sync",
-    "template",
-    "time"
-  ]
-  revision = "32f99dacc749b6bea68cfff5840420fcec1ff573"
-
-[[projects]]
   name = "github.com/davecgh/go-spew"
   packages = ["spew"]
   revision = "346938d642f2ec3594ed81d874461961cd0faa76"
@@ -115,6 +91,6 @@
 [solve-meta]
   analyzer-name = "dep"
   analyzer-version = 1
-  inputs-digest = "4f546083a8f346730a738bdcdbc08ddc97b646e3d208bc45ccd3bef88bf9be94"
+  inputs-digest = "d69cc00eaec94201fcbf2c15a9e025d7d99901bc2bac78f931ef30bb3121c7b3"
   solver-name = "gps-cdcl"
   solver-version = 1

@@ -31,11 +31,11 @@
 
 [[constraint]]
   branch = "master"
-  name = "github.com/asticode/go-astilog"
+  name = "github.com/asticode/go-astitools"
 
 [[constraint]]
   branch = "master"
-  name = "github.com/asticode/go-astitools"
+  name = "github.com/hkloudou/go-astilog"
 
 [[constraint]]
   name = "github.com/imdario/mergo"
