@@ -31,10 +31,6 @@
 
 [[constraint]]
   branch = "master"
-  name = "github.com/asticode/go-astitools"
-
-[[constraint]]
-  branch = "master"
   name = "github.com/hkloudou/go-astilog"
 
 [[constraint]]
